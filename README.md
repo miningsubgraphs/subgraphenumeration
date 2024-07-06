@@ -3,4 +3,4 @@
 3. The algorithms were implemented recursively. To avoid stackoverflow issue, we may set VM arguments: -Xss10M. 
 4. The input files are in the folder 'graphs', and the output files are in folder 'outputs'.
 5. SimpleForwardSizeKUsingArrayList,SimpleSizeKUsingArrayList,VariantSimpleSizeKUsingArrayList and TopDownEnumerationSizeKUsingArrayList correspond to the SimpleForward,Simple,VSimple and TopnDown algorithms in the paper titled Novel Algorithms for Efficient Mining of Connected Induced Subgraphs of a Given Cardinality.
-6. KDeltaDelayEnumeration.java is the algorithm with a delay of $O(k\Delat)$.
+6. KDeltaDelayEnumeration.java is the algorithm with a delay of $O(k\Delta)$.
